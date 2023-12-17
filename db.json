@@ -1,0 +1,11 @@
+{
+  "test": {
+      "foodId":1,
+      "foodName": "粤菜",
+      "popularity":"100",
+      "saleNum": "100",
+      "BigDecimal": 100,
+      "count": 100,
+      "foodPic": ""
+  }
+}
