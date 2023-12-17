@@ -1,5 +1,6 @@
 {
-  "test": {
+  "test":[
+      {
       "id ":1,
       "shopName": "粤菜",
       "saleNum":10,
@@ -21,5 +22,29 @@
           "foodPic": ""
         }
       ]
+  },    {
+      "id ":2,
+      "shopName": "湖南菜",
+      "saleNum":10,
+      "offerPrice": 12,
+      "distributionCost": 100,
+      "feature": "speciall",
+      "time": "2020/12/1:13:12:12",
+      "banner": "",
+      "shopPic": "",
+      "shopNotice": "",
+      "foodList":[
+          {
+          "foodId":1,
+          "foodName": "粤菜",
+          "popularity":"100",
+          "saleNum": "100",
+          "BigDecimal": 100,
+          "count": 100,
+          "foodPic": ""
+        }
+      ]
   }
+
+  ]
 }
