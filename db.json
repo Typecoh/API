@@ -1,50 +1,73 @@
 {
-  "test":[
-      {
-      "id ":1,
-      "shopName": "粤菜",
-      "saleNum":10,
+  "test": [
+    {
+      "id ": 1,
+      "shopName": "瑞幸咖啡",
+      "saleNum": 100,
       "offerPrice": 12,
-      "distributionCost": 100,
+      "distributionCost": 3,
       "feature": "speciall",
       "time": "2020/12/1:13:12:12",
       "banner": "",
       "shopPic": "",
       "shopNotice": "",
-      "foodList":[
-          {
-          "foodId":1,
-          "foodName": "粤菜",
-          "popularity":"100",
+      "foodList": [
+        {
+          "foodId": 1,
+          "foodName": "瑞幸咖啡",
+          "popularity": "100",
           "saleNum": "100",
           "BigDecimal": 100,
           "count": 100,
           "foodPic": ""
         }
       ]
-  },    {
-      "id ":2,
-      "shopName": "湖南菜",
-      "saleNum":10,
+    },
+    {
+      "id ": 2,
+      "shopName": "茶白道",
+      "saleNum": 100,
       "offerPrice": 12,
-      "distributionCost": 100,
+      "distributionCost": 3,
       "feature": "speciall",
       "time": "2020/12/1:13:12:12",
       "banner": "",
       "shopPic": "",
       "shopNotice": "",
-      "foodList":[
-          {
-          "foodId":1,
-          "foodName": "粤菜",
-          "popularity":"100",
+      "foodList": [
+        {
+          "foodId": 1,
+          "foodName": "茶白道",
+          "popularity": "100",
           "saleNum": "100",
           "BigDecimal": 100,
           "count": 100,
           "foodPic": ""
         }
       ]
-  }
-
+    },
+    {
+      "id ": 3,
+      "shopName": "鸡公煲",
+      "saleNum": 500,
+      "offerPrice": 15,
+      "distributionCost": 3,
+      "feature": "speciall",
+      "time": "2020/12/1:13:12:12",
+      "banner": "",
+      "shopPic": "",
+      "shopNotice": "",
+      "foodList": [
+        {
+          "foodId": 1,
+          "foodName": "鸡公煲",
+          "popularity": "100",
+          "saleNum": "500",
+          "BigDecimal": 100,
+          "count": 100,
+          "foodPic": ""
+        }
+      ]
+    }
   ]
 }
